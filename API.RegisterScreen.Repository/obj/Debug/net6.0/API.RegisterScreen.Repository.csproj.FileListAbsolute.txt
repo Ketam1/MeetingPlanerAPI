@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\bin\Debug\net6.0\API.RegisterScreen.Repository.deps.json
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\bin\Debug\net6.0\API.RegisterScreen.Repository.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\bin\Debug\net6.0\ref\API.RegisterScreen.Repository.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\bin\Debug\net6.0\API.RegisterScreen.Repository.pdb
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\bin\Debug\net6.0\API.RegisterScreen.Frontier.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\bin\Debug\net6.0\API.RegisterScreen.Frontier.pdb
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\obj\Debug\net6.0\API.RegisterScreen.Repository.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\obj\Debug\net6.0\API.RegisterScreen.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\obj\Debug\net6.0\API.RegisterScreen.Repository.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\obj\Debug\net6.0\API.RegisterScreen.Repository.AssemblyInfo.cs
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\obj\Debug\net6.0\API.RegisterScreen.Repository.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\obj\Debug\net6.0\API.RegisterScreen.Repository.csproj.CopyComplete
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\obj\Debug\net6.0\API.RegisterScreen.Repository.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\obj\Debug\net6.0\ref\API.RegisterScreen.Repository.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Repository\obj\Debug\net6.0\API.RegisterScreen.Repository.pdb

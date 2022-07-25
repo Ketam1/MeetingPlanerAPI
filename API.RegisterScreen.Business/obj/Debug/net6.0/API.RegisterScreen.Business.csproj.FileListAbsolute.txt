@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\bin\Debug\net6.0\API.RegisterScreen.Business.deps.json
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\bin\Debug\net6.0\API.RegisterScreen.Business.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\bin\Debug\net6.0\ref\API.RegisterScreen.Business.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\bin\Debug\net6.0\API.RegisterScreen.Business.pdb
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\bin\Debug\net6.0\API.RegisterScreen.Frontier.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\bin\Debug\net6.0\API.RegisterScreen.Frontier.pdb
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\obj\Debug\net6.0\API.RegisterScreen.Business.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\obj\Debug\net6.0\API.RegisterScreen.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\obj\Debug\net6.0\API.RegisterScreen.Business.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\obj\Debug\net6.0\API.RegisterScreen.Business.AssemblyInfo.cs
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\obj\Debug\net6.0\API.RegisterScreen.Business.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\obj\Debug\net6.0\API.RegisterScreen.Business.csproj.CopyComplete
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\obj\Debug\net6.0\API.RegisterScreen.Business.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\obj\Debug\net6.0\ref\API.RegisterScreen.Business.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Business\obj\Debug\net6.0\API.RegisterScreen.Business.pdb

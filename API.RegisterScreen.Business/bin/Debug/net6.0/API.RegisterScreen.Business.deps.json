@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "API.RegisterScreen.Business/1.0.0": {
+        "dependencies": {
+          "API.RegisterScreen.Frontier": "1.0.0"
+        },
+        "runtime": {
+          "API.RegisterScreen.Business.dll": {}
+        }
+      },
+      "API.RegisterScreen.Frontier/1.0.0": {
+        "runtime": {
+          "API.RegisterScreen.Frontier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "API.RegisterScreen.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "API.RegisterScreen.Frontier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

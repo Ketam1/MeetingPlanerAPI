@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Frontier\bin\Debug\net6.0\API.RegisterScreen.Frontier.deps.json
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Frontier\bin\Debug\net6.0\API.RegisterScreen.Frontier.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Frontier\bin\Debug\net6.0\ref\API.RegisterScreen.Frontier.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Frontier\bin\Debug\net6.0\API.RegisterScreen.Frontier.pdb
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Frontier\obj\Debug\net6.0\API.RegisterScreen.Frontier.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Frontier\obj\Debug\net6.0\API.RegisterScreen.Frontier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Frontier\obj\Debug\net6.0\API.RegisterScreen.Frontier.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Frontier\obj\Debug\net6.0\API.RegisterScreen.Frontier.AssemblyInfo.cs
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Frontier\obj\Debug\net6.0\API.RegisterScreen.Frontier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Frontier\obj\Debug\net6.0\API.RegisterScreen.Frontier.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Frontier\obj\Debug\net6.0\ref\API.RegisterScreen.Frontier.dll
+C:\Users\DELL\source\repos\register-screen-back\API.RegisterScreen.Frontier\obj\Debug\net6.0\API.RegisterScreen.Frontier.pdb
