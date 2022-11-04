@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
-namespace VLIConecta.PosVendas.Controllers.Api.v1.Bics
+namespace MeetingPlanner.Controllers
 {
     [Route("api/v1/meetings")]
     [ApiController]
