@@ -43,12 +43,22 @@ Para alteração, exclusão e edição de reuniões utilizei um token único par
 # Tecnologias, Escolhas, Aprendizados
 
 Para o desenvolvimento desse projeto usei das seguintes tecnologias, bibliotecas e arquiteturas, pontuarei o motivo de escolha de algumas:
-  - MySql: Apesar de ter alguma experiência com SQL, nunca tinha me envolvido com o MySQL em especifíco, foi um bom aprendizado, o aplicativo Desktop dele é ótimo
+  - MySql: Apesar de ter experiência com SQL, nunca tinha me envolvido com o MySQL em especifíco, foi um bom aprendizado, o aplicativo Desktop dele é ótimo
   - Dapper: A biblioteca que eu mais tenho costume para mexer com banco de dados, intuitiva e facilita a inserção de paramêtros das Queries SQL no código
   - Arquitetura em camadas (Controller-Service-Repository): Utilizo por acreditar ser uma boa forma de separar as responsabilidades do código, principalmente quando se trata de API's Rest, 
   nesse caso, o projeot ainda conta com camada exclusivas para objetos de retorno (Entities e DTOs) já que por muitas vezes temos projetos com muitos arquivos de pouco acesso.
   - Principios SOLID: Aqui principalmente fica a questão de inversão de dependências, algo que é facilitado pela arquitetura escolhida, utilizando a Injeção de depêndencia para desacoplar classes de implementações de outras classes.
   - Padrão Transient: devido a baixa carga do programa e por não haver necessidade de manter o escopo entre chamadas optei pelo Transient, que cria um escopo novo, e destroi ele após usar, para cada requisição feita.
+  - C#.
+  - ASP.NET
+  - .NET Core
+
+ ## O que eu mudaria:
+  - Sinto que por muitas vezes o código se repete quando há a passagem dos dados entre as camadas, talvez a implementação de um Mapper, ajudaria a deixar o    código mais enxuto.
+  - Colocaria autenticação.
+  - Adicionar a possibilidade do usuário mudar a reunião de local e sala.
+  - Inclusão de Testes Unitários com XUnit (não se fez muito necessário, já que a camada de business conta com pouquissima lógica)
+  - Implementação de uma lógica mais robusta para conexão com banco de dados, removendo a necessidade de funções estáticas.
 
 # Obrigado!
 
