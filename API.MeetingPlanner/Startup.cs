@@ -9,6 +9,12 @@ namespace API.MeetingPlanner
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc(option => option.EnableEndpointRouting = false);
+            services.AddCors(o => o.AddPolicy("ApiPolicy", builder =>
+            {
+                builder.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader();
+            }));
             SetupSwagger(services);
             Map.Map.SetupDependenceInjection(services);
         }
@@ -32,8 +38,8 @@ namespace API.MeetingPlanner
             });
 
             app.UseHttpsRedirection();
+            app.UseCors("ApiPolicy");
             app.UseMvc();
-
         }
         private static void SetupSwagger(IServiceCollection services)
         {

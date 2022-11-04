@@ -15,7 +15,7 @@ namespace VLIConecta.PosVendas.Controllers.Api.v1.Bics
             this.locationsBusiness = locationsBusiness;
         }
 
-        [HttpGet("locations")]
+        [HttpGet("getAll")]
         [ProducesResponseType((int)HttpStatusCode.OK, Type = typeof(IEnumerable<LocationDto>))]
         [ProducesResponseType((int)HttpStatusCode.BadRequest)]
         [ProducesResponseType((int)HttpStatusCode.InternalServerError)]
@@ -28,6 +28,5 @@ namespace VLIConecta.PosVendas.Controllers.Api.v1.Bics
             }
             return NoContent();
         }
-
     }
 }

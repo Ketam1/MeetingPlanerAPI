@@ -10,10 +10,10 @@ namespace API.MeetingPlanner.Business
         private readonly ILocationsRepository LocationsRepository;
 
         public LocationsBusiness(
-            ILocationsRepository contactListRepository
+            ILocationsRepository locationsRepository
         )
         {
-            LocationsRepository = contactListRepository;
+            LocationsRepository = locationsRepository;
         }
         public IEnumerable<LocationDto> GetLocations(
         )
@@ -35,7 +35,6 @@ namespace API.MeetingPlanner.Business
                             {
                                 RoomId = rooms.Key.RoomId,
                                 RoomName = rooms.Key.RoomName,
-                                Meetings = rooms.Select(meeting => new MeetingDto(meeting))
                             })
                     }
                 );

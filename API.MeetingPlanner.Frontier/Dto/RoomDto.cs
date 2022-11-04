@@ -7,6 +7,5 @@ namespace API.MeetingPlanner.Frontier.Dto
     {
         public string RoomName { get; set; }
         public int RoomId { get; set; }
-        public IEnumerable<MeetingDto> Meetings { get; set; }
     }
 }

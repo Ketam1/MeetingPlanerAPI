@@ -38,7 +38,7 @@ namespace API.MeetingPlanner.Repository.Repositories.Meetings
             if (input.RoomId != null)
             {
                 query += " AND roomId IN @RoomId";
-                parameters.Add("@RoomId", input.RoomId, DbType.Int32);
+                parameters.Add("@RoomId", input.RoomId);
             }
             if (input.StartDate != null && input.EndDate != null)
             {
@@ -79,7 +79,7 @@ namespace API.MeetingPlanner.Repository.Repositories.Meetings
             parameters.Add("@ResponsibleName", meeting.MeetingData.ResponsibleName, DbType.String);
             parameters.Add("@CoffeeQuantity", meeting.MeetingData.CoffeQuantity, DbType.Int16);
             parameters.Add("@Description", meeting.MeetingData.Description, DbType.String);
-
+            parameters.Add("@Title", meeting.MeetingData.Title, DbType.String);
             MeetingsDataRepository.Execute(query, parameters);
         }
 

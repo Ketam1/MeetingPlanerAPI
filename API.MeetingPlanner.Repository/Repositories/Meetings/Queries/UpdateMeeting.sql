@@ -1,7 +1,6 @@
 ﻿UPDATE meeting 
     SET 
-        locationId = @LocationId
-        ,roomId = @RoomId
+        title = @Title
         ,startDate = @StartDate
         ,endDate = @EndDate
         ,responsibleName = @ResponsibleName
