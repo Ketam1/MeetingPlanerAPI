@@ -1,0 +1,3 @@
+﻿SELECT *
+FROM meeting
+WHERE 1

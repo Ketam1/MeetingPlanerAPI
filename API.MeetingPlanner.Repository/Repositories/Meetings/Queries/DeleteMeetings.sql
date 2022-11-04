@@ -1,0 +1,1 @@
+﻿DELETE FROM meeting WHERE meetingId IN @MeetingIds

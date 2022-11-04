@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LJtSCEbYg6NMWqDuer5rUbsdjwXYIAxVXXaJ2G0eo4g=",
+  "Source": "API.MeetingPlanner",
+  "BasePath": "_content/API.MeetingPlanner",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

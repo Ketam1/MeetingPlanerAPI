@@ -1,0 +1,337 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\ContactList-Backend\\register-screen-back\\API.RegisterScreen.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Business\\API.RegisterScreen.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Business\\API.RegisterScreen.Business.csproj",
+        "projectName": "API.RegisterScreen.Business",
+        "projectPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Business\\API.RegisterScreen.Business.csproj",
+        "packagesPath": "C:\\Users\\guics\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Frontier\\API.RegisterScreen.Frontier.csproj": {
+                "projectPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Frontier\\API.RegisterScreen.Frontier.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Frontier\\API.RegisterScreen.Frontier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Frontier\\API.RegisterScreen.Frontier.csproj",
+        "projectName": "API.RegisterScreen.Frontier",
+        "projectPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Frontier\\API.RegisterScreen.Frontier.csproj",
+        "packagesPath": "C:\\Users\\guics\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Frontier\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Map\\API.RegisterScreen.Map.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Map\\API.RegisterScreen.Map.csproj",
+        "projectName": "API.RegisterScreen.Map",
+        "projectPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Map\\API.RegisterScreen.Map.csproj",
+        "packagesPath": "C:\\Users\\guics\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Map\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Business\\API.RegisterScreen.Business.csproj": {
+                "projectPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Business\\API.RegisterScreen.Business.csproj"
+              },
+              "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Frontier\\API.RegisterScreen.Frontier.csproj": {
+                "projectPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Frontier\\API.RegisterScreen.Frontier.csproj"
+              },
+              "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Repository\\API.RegisterScreen.Repository.csproj": {
+                "projectPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Repository\\API.RegisterScreen.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Repository\\API.RegisterScreen.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Repository\\API.RegisterScreen.Repository.csproj",
+        "projectName": "API.RegisterScreen.Repository",
+        "projectPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Repository\\API.RegisterScreen.Repository.csproj",
+        "packagesPath": "C:\\Users\\guics\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Frontier\\API.RegisterScreen.Frontier.csproj": {
+                "projectPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Frontier\\API.RegisterScreen.Frontier.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "XSerializer": {
+              "target": "Package",
+              "version": "[0.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\ContactList-Backend\\register-screen-back\\API.RegisterScreen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\ContactList-Backend\\register-screen-back\\API.RegisterScreen.csproj",
+        "projectName": "API.RegisterScreen",
+        "projectPath": "C:\\Projetos\\ContactList-Backend\\register-screen-back\\API.RegisterScreen.csproj",
+        "packagesPath": "C:\\Users\\guics\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\ContactList-Backend\\register-screen-back\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Frontier\\API.RegisterScreen.Frontier.csproj": {
+                "projectPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Frontier\\API.RegisterScreen.Frontier.csproj"
+              },
+              "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Map\\API.RegisterScreen.Map.csproj": {
+                "projectPath": "C:\\Projetos\\ContactList-Backend\\API.RegisterScreen.Map\\API.RegisterScreen.Map.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

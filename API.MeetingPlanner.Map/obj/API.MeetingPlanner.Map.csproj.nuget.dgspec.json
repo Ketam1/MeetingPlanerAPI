@@ -1,0 +1,350 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Map\\API.MeetingPlanner.Map.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Business\\API.MeetingPlanner.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Business\\API.MeetingPlanner.Business.csproj",
+        "projectName": "API.MeetingPlanner.Business",
+        "projectPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Business\\API.MeetingPlanner.Business.csproj",
+        "packagesPath": "C:\\Users\\guics\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Frontier\\API.MeetingPlanner.Frontier.csproj": {
+                "projectPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Frontier\\API.MeetingPlanner.Frontier.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Frontier\\API.MeetingPlanner.Frontier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Frontier\\API.MeetingPlanner.Frontier.csproj",
+        "projectName": "API.MeetingPlanner.Frontier",
+        "projectPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Frontier\\API.MeetingPlanner.Frontier.csproj",
+        "packagesPath": "C:\\Users\\guics\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Frontier\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Map\\API.MeetingPlanner.Map.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Map\\API.MeetingPlanner.Map.csproj",
+        "projectName": "API.MeetingPlanner.Map",
+        "projectPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Map\\API.MeetingPlanner.Map.csproj",
+        "packagesPath": "C:\\Users\\guics\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Map\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Business\\API.MeetingPlanner.Business.csproj": {
+                "projectPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Business\\API.MeetingPlanner.Business.csproj"
+              },
+              "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Frontier\\API.MeetingPlanner.Frontier.csproj": {
+                "projectPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Frontier\\API.MeetingPlanner.Frontier.csproj"
+              },
+              "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Repository\\API.MeetingPlanner.Repository.csproj": {
+                "projectPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Repository\\API.MeetingPlanner.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Repository\\API.MeetingPlanner.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Repository\\API.MeetingPlanner.Repository.csproj",
+        "projectName": "API.MeetingPlanner.Repository",
+        "projectPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Repository\\API.MeetingPlanner.Repository.csproj",
+        "packagesPath": "C:\\Users\\guics\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Frontier\\API.MeetingPlanner.Frontier.csproj": {
+                "projectPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Frontier\\API.MeetingPlanner.Frontier.csproj"
+              },
+              "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Util\\API.MeetingPlanner.Util.csproj": {
+                "projectPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Util\\API.MeetingPlanner.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Util\\API.MeetingPlanner.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Util\\API.MeetingPlanner.Util.csproj",
+        "projectName": "API.MeetingPlanner.Util",
+        "projectPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Util\\API.MeetingPlanner.Util.csproj",
+        "packagesPath": "C:\\Users\\guics\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\MeetingPlanner-BackEnd\\API.MeetingPlanner.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

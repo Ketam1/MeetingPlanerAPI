@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.MeetingPlanner", "API.MeetingPlanner\API.MeetingPlanner.csproj", "{55EE5AF8-5010-4A3B-AAD6-794A69C1FDBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.MeetingPlanner.Business", "API.MeetingPlanner.Business\API.MeetingPlanner.Business.csproj", "{E5D246D3-9D05-49FE-802D-F591123686B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.MeetingPlanner.Frontier", "API.MeetingPlanner.Frontier\API.MeetingPlanner.Frontier.csproj", "{E39E8AB6-B6A0-4C26-BF39-BFB33AF0B28B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.MeetingPlanner.Map", "API.MeetingPlanner.Map\API.MeetingPlanner.Map.csproj", "{47BFFAD6-B205-4C5E-9860-6A79FBC44690}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.MeetingPlanner.Repository", "API.MeetingPlanner.Repository\API.MeetingPlanner.Repository.csproj", "{FDACECF0-A4C8-49B6-8BC8-06677B00802A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.MeetingPlanner.Util", "API.MeetingPlanner.Util\API.MeetingPlanner.Util.csproj", "{8A19DFC7-6ABB-4F89-95EE-56292848ACA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EE5AF8-5010-4A3B-AAD6-794A69C1FDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EE5AF8-5010-4A3B-AAD6-794A69C1FDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EE5AF8-5010-4A3B-AAD6-794A69C1FDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EE5AF8-5010-4A3B-AAD6-794A69C1FDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D246D3-9D05-49FE-802D-F591123686B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D246D3-9D05-49FE-802D-F591123686B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D246D3-9D05-49FE-802D-F591123686B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D246D3-9D05-49FE-802D-F591123686B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E39E8AB6-B6A0-4C26-BF39-BFB33AF0B28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E39E8AB6-B6A0-4C26-BF39-BFB33AF0B28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E39E8AB6-B6A0-4C26-BF39-BFB33AF0B28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E39E8AB6-B6A0-4C26-BF39-BFB33AF0B28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BFFAD6-B205-4C5E-9860-6A79FBC44690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BFFAD6-B205-4C5E-9860-6A79FBC44690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BFFAD6-B205-4C5E-9860-6A79FBC44690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BFFAD6-B205-4C5E-9860-6A79FBC44690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDACECF0-A4C8-49B6-8BC8-06677B00802A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDACECF0-A4C8-49B6-8BC8-06677B00802A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDACECF0-A4C8-49B6-8BC8-06677B00802A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDACECF0-A4C8-49B6-8BC8-06677B00802A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A19DFC7-6ABB-4F89-95EE-56292848ACA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A19DFC7-6ABB-4F89-95EE-56292848ACA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A19DFC7-6ABB-4F89-95EE-56292848ACA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A19DFC7-6ABB-4F89-95EE-56292848ACA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AF128FC-AA16-4DCD-B0DA-84B376EF58D6}
+	EndGlobalSection
+EndGlobal

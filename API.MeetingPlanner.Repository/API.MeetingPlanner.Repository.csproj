@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Repositories\Locations\Queries\GetLocations.sql" />
+    <None Remove="Repositories\Meetings\Queries\DeleteMeetings.sql" />
+    <None Remove="Repositories\Meetings\Queries\GetMeetings.sql" />
+    <None Remove="Repositories\Meetings\Queries\InsertMeeting.sql" />
+    <None Remove="Repositories\Meetings\Queries\UpdateMeeting.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Repositories\Locations\Queries\GetLocations.sql" />
+    <EmbeddedResource Include="Repositories\Meetings\Queries\GetMeetings.sql" />
+    <EmbeddedResource Include="Repositories\Meetings\Queries\DeleteMeetings.sql" />
+    <EmbeddedResource Include="Repositories\Meetings\Queries\UpdateMeeting.sql" />
+    <EmbeddedResource Include="Repositories\Meetings\Queries\InsertMeeting.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\API.MeetingPlanner.Frontier\API.MeetingPlanner.Frontier.csproj" />
+    <ProjectReference Include="..\API.MeetingPlanner.Util\API.MeetingPlanner.Util.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.7" />
+    <PackageReference Include="MySql.Data" Version="8.0.31" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.4" />
+  </ItemGroup>
+
+</Project>
