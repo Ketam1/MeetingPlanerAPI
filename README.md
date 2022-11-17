@@ -34,8 +34,6 @@ Para alteração, exclusão e edição de reuniões utilizei um token único par
 ----------------------------
 # Avisos
 
- - Para que o front-end funcione corretamente é imprescindível que o back-end esteja funcionando, portanto disponibilizei também alguns arquivos do 
-   Postman, também na pasta *data*, com nome de *Postman* se forem necessários.
  - A chave de conexão para o banco MySQL Local se encontra no arquivo AppSettings.json, caso haja alguma necessidade de trocar as configurações
    
 ----------------------------
